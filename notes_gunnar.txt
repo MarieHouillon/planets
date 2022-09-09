@@ -1,3 +1,7 @@
 Gunnar's notes:
 * ...
+<<<<<<< HEAD
 * my final conlcusion
+=======
+New note by Marie
+>>>>>>> 05bb6ae7a98fc89a0b85b286f82aea2dae70fc28
